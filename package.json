@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-test",
+  "version": "1.0.0",
+  "description": "this is for an assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ridmi-Manarandi/Nodejs-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ridmi-Manarandi/Nodejs-Test/issues"
+  },
+  "homepage": "https://github.com/Ridmi-Manarandi/Nodejs-Test#readme",
+  "dependencies": {
+    "msnodesqlv8": "^4.1.2",
+    "mssql": "^10.0.1"
+  }
+}
